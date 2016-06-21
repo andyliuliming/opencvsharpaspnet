@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OpenCvSharpAspDotNet</id>
+    <version>1.0.1</version>
+    <authors>andliu</authors>
+    <owners>andliu</owners>
+    <licenseUrl>https://github.com/andyliuliming/opencvsharpaspnet/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/andyliuliming/opencvsharpaspnet</projectUrl>
+    <iconUrl>https://github.com/andyliuliming/opencvsharpaspnet</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Help You handle the dependency of opencv dependency in asp.net</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Asp.Net opencv opencvsharp</tags>
+    <dependencies>
+     <dependency id="OpenCvSharp3-WithoutDll" version="3.1.0" /> 
+    </dependencies>
+  </metadata>
+</package>
